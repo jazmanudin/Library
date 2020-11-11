@@ -5,7 +5,7 @@
       <div class="inner">
         <h3><?php echo $getJmlBuku; ?></h3>
 
-        <p>Data</p>
+        <p>Data Buku</p>
       </div>
       <div class="icon">
         <i class="fa fa-book"></i>

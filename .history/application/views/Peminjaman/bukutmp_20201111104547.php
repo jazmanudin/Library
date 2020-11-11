@@ -4,7 +4,7 @@
 		<td colspan="4"><b>Detail Peminjaman</b></td>
 	</tr>
 	<tr>
-		<td width="200px">Kode Buku</td>
+		<td width="200px">Kode</td>
 		<td>Nama Buku</td>
 		<td>Pengarang</td>
 		<td>Aksi</td>
